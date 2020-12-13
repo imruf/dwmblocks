@@ -12,8 +12,8 @@ static const Block blocks[] = {
 	/* {"",     "dwmkb",       0,     30}, */
 	/* {"",	"dwmforecast",	10800,	5}, */
 	/* {"",	"dwmmemory",	10,	   14}, */
-	/*  {"",	"dwmcpu",		10,	   18}, */
-	/*  {"",	"dwmnettraf",	1,	   16}, */
+	/* {"",	"dwmcpu",		10,	   18}, */
+	/* {"",	"dwmnettraf",	1,	   16}, */
 	{"",	"dwmvolume",	0,	   10},
 	{"",	"dwmbattery",	60,	    3},
 	{"",	"dwmclock",	    60,	    1},
